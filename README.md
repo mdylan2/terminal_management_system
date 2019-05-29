@@ -4,9 +4,10 @@ This repository contains the code used to build a simple management system for u
 as a mini-project for a Python course. The project is a terminal application coded on Python using the Pandas library and SQLite.
 
 ### Files
-There are 2 main files in the program:
+There are 3 main files in the repository:
 - `app.py`: Contains all the functions and classes used to run the program
-- 'create_database.py`: Contains the code to create the SQLite database and populate it with some data
+- `create_database.py`: Contains the code to create the SQLite database and populate it with some data
+- `terminal_management_system.db`: An SQLite database populated with users, librarian, and books tables and information created in the `create_database.py` file
 
 ### Setting Up and Using the Program
 - Clone/fork this respository onto your local computer 
@@ -19,7 +20,7 @@ The program has a main menu with the following options:
 2) Login as a Librarian
 3) Register as a User/Librarian
 
-Users and librarians can login and will be redirected to separate views with different options. The images below demonstrate the views/features in the terminal application.
+Users and librarians can login and will be redirected to separate views with different options. Users can rent books, return books, update their info, etc. while librarians can add books, check books rented for too long, check user fees, etc. The images below demonstrate the views/features in the terminal application.
 
 __**Main Page:**__
 ![](https://raw.githubusercontent.com/mdylan2/terminal_management_system/master/images/1.png)
