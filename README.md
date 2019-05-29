@@ -23,10 +23,10 @@ The program has a main menu with the following options:
 Users and librarians can login and will be redirected to separate views with different options. Users can rent books, return books, update their info, etc. while librarians can add books, check books rented for too long, check user fees, etc. The images below demonstrate the views/features in the terminal application.
 
 __**Main Page:**__
-![](https://github.com/mdylan2/terminal_management_system/tree/master/images/1.png)
+![alt text](https://github.com/mdylan2/terminal_management_system/tree/master/images/1.png)
 
 __**Librarian View:**__
-![](https://github.com/mdylan2/terminal_management_system/tree/master/images/2.png)
+![alt text](https://github.com/mdylan2/terminal_management_system/tree/master/images/2.png)
 
 __**User View:**__
-![](https://github.com/mdylan2/terminal_management_system/tree/master/images/3.png)
+![alt text](https://github.com/mdylan2/terminal_management_system/tree/master/images/3.png)
